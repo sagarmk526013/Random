@@ -20,7 +20,7 @@
 
 * `rm -rf RANDOM-CLONE`
 
-* `git clone https://github.com/MUMIT-404-CYBER/RANDOM-CLONE.git`
+* `git clone https://github.com/sagarmk526013/Random.git`
 
 * `cd RANDOM-CLONE`
 
