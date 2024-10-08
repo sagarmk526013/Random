@@ -1,4 +1,4 @@
 import os, sys
-print(" Update Checking")
+print("Update Checking")
 os.system("git pull")
-import Random.cpython-311
+import Random
